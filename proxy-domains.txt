@@ -25,12 +25,16 @@ nflxso.net
 nflxext.com
 hulu.com
 huluim.com
+hulustream.com
 hbonow.com
 hbogo.com
 hbo.com
 amazon.com
 amazon.co.uk
 amazonvideo.com
+aiv-cdn.net
+aiv-delivery.net
+primevideo.com
 crackle.com
 pandora.com
 vudu.com
@@ -84,6 +88,7 @@ happyon.jp
 abema.tv
 abema.jp
 abema.io
+hayabusa.io
 hulu.jp
 optus.com.au
 optusnet.com.au
