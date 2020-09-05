@@ -95,3 +95,17 @@ optusnet.com.au
 gamer.com.tw
 bahamut.com.tw
 hinet.net
+dmm.co.jp
+dmm.com
+dmm-extension.com
+linetv.tw
+d3c7rimkq79yfu.cloudfront.net
+kktv.com.tw
+kktv.me
+kktv-theater.kk.stream
+biliapi.net
+bilibili.com
+cache.video.iqiyi.com
+api.mgtv.com
+wetv.vip
+wetvinfo.com
