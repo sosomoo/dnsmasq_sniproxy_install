@@ -109,3 +109,7 @@ cache.video.iqiyi.com
 api.mgtv.com
 wetv.vip
 wetvinfo.com
+dazn.com
+dazn-api.com
+d151l6v8er5bdm.cloudfront.net
+indazn.com
