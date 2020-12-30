@@ -113,3 +113,4 @@ dazn.com
 dazn-api.com
 d151l6v8er5bdm.cloudfront.net
 indazn.com
+cygames.jp
